@@ -27,4 +27,4 @@ def compress_string(s):
         output += prev
     return output
 
-print(compress_string("feeeedddmmee"))
+print(compress_string("ffffffffeeeedddmmee"))
